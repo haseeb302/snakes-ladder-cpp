@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1484508335 source:d:\arrays\snakesladders\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
